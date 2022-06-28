@@ -1,6 +1,6 @@
 # FinalDbms-Project
 
-<img src="dbms pics/1.png"/><br/>
+<img src="dbms pics/2.png"/><br/>
 <img src="dbms pics/10.jpg"/><br/>
 <img src="dbms pics/11.jpg"/><br/>
 <img src="dbms pics/12.jpg"/><br/>
@@ -13,7 +13,7 @@
 <img src="dbms pics/19.jpg"/><br/>
 <img src="dbms pics/20.jpg"/><br/>
 
-<img src="dbms pics/2.png"/><br/>
+<img src="dbms pics/1.png"/><br/>
 <img src="dbms pics/3.png"/><br/>
 <img src="dbms pics/4.png"/><br/>
 <img src="dbms pics/5.png"/><br/>
